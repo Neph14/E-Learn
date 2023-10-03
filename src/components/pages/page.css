@@ -1,0 +1,12 @@
+.bg {
+  background-image: url(../../asset/BgPhone.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bg2 {
+  background-image: url(../../asset/worldbg.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
